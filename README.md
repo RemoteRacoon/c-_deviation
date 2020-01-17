@@ -1,1 +1,1 @@
-# c-_deviation
+# App calculating std deviation in C++
